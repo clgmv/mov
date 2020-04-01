@@ -1,0 +1,9 @@
+正在定位元素信息：定位方式->id,value值->id_username
+正在定位元素信息：定位方式->id,value值->id_password
+正在定位元素信息：定位方式->xpath,value值->//button
+正在定位元素信息：定位方式->css,value值->#left-side>ul>li:nth-child(11)>a
+正在定位元素信息：定位方式->xpath,value值->//div[@id="content-block"]/div/div[2]/div/a
+正在定位元素信息：定位方式->id,value值->id_n
+正在定位元素信息：定位方式->xpath,value值->//*[@id="articleclassify_form"]/div[2]/button
+正在定位元素信息：定位方式->xpath,value值->//table
+编辑是否成功:True
